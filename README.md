@@ -1,2 +1,2 @@
-# jpaezweb.io
+# jpaezweb.github.io
 web site
